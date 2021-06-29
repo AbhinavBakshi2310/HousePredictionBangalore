@@ -27,9 +27,7 @@ The project is divided into 2 parts:
 1. Presently, only basic setup is done. Exception handling is left, if the url is not correct. 
    This would not happen when using chrome extension but if used independently then it can occur.
    Some expections: The video is live, url is not correct.
-2. Summarization needs to improved, if the content can be broken in some parts 
-   and then summarization is done and that is given as time stamps.
-   Sumy can be used.
+2. Summarization needs to be improved, time stamps can be added.
 3. The transcript is presently working only for youtube videos having captions on, the audio and text processing are left.
 4. There can be extra features of choosing language and length of summary. There can be option to convert the text 
    to audio . 
