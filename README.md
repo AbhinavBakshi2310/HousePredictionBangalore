@@ -5,7 +5,7 @@ The project is divided into 2 parts:
 1. ChromeExtension- A Chrome Extension which sends request to the backend.
 2. youtubetranscriptsummarizer- server which process the request and sends it back to the client as a HTTP response.
 
-### installation:
+### Installation:
 1. Clone the repo.
 2. Go in the youtubetranscriptsummarizer folder and create, activate a virtual environment and install the requirements
    with pip or pip3 install -r requirements.txt .
