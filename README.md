@@ -1,8 +1,9 @@
 # YoutubeTranscriptSummarizer
 A Chrome Extension which makes request to a backend REST API where it will perform NLP and respond with a summarized version of a YouTube transcript.
+
 The project is divided into 2 parts:
-1.ChromeExtension- A Chrome Extension which sends request to the backend.
-2.youtubetranscriptsummarizer- server which process the request and sends it back to the client as a HTTP response.
+1. ChromeExtension- A Chrome Extension which sends request to the backend.
+2. youtubetranscriptsummarizer- server which process the request and sends it back to the client as a HTTP response.
 
 ### installation:
 1. Clone the repo.
