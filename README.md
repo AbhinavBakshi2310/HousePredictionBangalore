@@ -36,5 +36,8 @@ The project is divided into 2 parts:
 5. The summary of some 10-15 minutes as time stamps can be given, then a person can also search for a keyword, when it
    is discussed and can go directly to that time 
    
-  
+   
+![](images/1.png)
+
+![](images/2.png)
  
